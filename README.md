@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer
 
-> **"I am in love with code"**
+> **"I code to change my imagination to practical reality ."**
 
 ---
 
