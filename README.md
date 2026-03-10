@@ -1,75 +1,92 @@
-# Hi 👋 I'm Vivek
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-🚀 Full Stack Developer  
-💻 React | Laravel | PHP | Node.js | MySQL | MongoDB  
-🌍 Building Web Applications & APIs  
-⚡ Passionate about creating scalable products
+<p align="center">
+Building modern web applications using React, Laravel, and Node.js
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-Frontend
-- React.js
-- JavaScript
-- Tailwind CSS
-- HTML5 / CSS3
+- 💻 Full Stack Developer
+- ⚡ Skilled in React, Laravel, PHP, Node.js
+- 🧠 Currently learning advanced backend systems
+- 🔧 Love building real world projects
 
-Backend
-- Laravel
-- PHP
-- Node.js
-- Express.js
+---
 
-Database
-- MySQL
-- MongoDB
+## 🛠 Tech Stack
 
-Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- Deployment
+### Frontend
+React  
+JavaScript  
+Tailwind CSS  
+HTML5  
+CSS3  
+
+### Backend
+Laravel  
+PHP  
+Node.js  
+Express  
+
+### Database
+MySQL  
+MongoDB  
+
+### Tools
+Git  
+GitHub  
+Postman  
+VS Code  
+Mongodb compass
+
 
 ---
 
 ## 🌟 Featured Projects
 
-🔹 OTT Platform (React + Node)  
-Movie streaming UI with search, video playback and modern design.
+### OTT Streaming Platform
+React based movie browsing platform with search and video player.
 
-🔹 Travel Website  
-React + Laravel API with live place search suggestions.
+### Travel Website
+React + Laravel API for place search with live suggestions.
 
-🔹 Betting Game System  
-Laravel backend with hourly number reveal logic.
+### Genai+ mern project
+using mern + ai to make system.
 
-🔹 Library Management System  
-Laravel CRUD system for books and customers.
+### Hospital Management System
+CRUD system built using Laravel and MySQL.
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=viveksingh0005&show_icons=true&theme=tokyonight)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksingh0005&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![streak](https://streak-stats.demolab.com?user=viveksingh0005&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=viveksingh0005&theme=react-dark)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn  
-Portfolio  
-Email
+www.linkedin.com/in/vivek-bora0005  
+boravivek549@gmail.com  
+https://www.instagram.com/5153k10/?hl=en
 
 ---
 
-⭐ From Vivek
+⭐ Thanks for visiting my profile!
