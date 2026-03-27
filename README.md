@@ -69,11 +69,7 @@ CRUD system built using Laravel and MySQL.
 
 ---
 
-## 🔥 GitHub Streak
 
-![streak](https://streak-stats.demolab.com?user=viveksingh0005&theme=tokyonight)
-
----
 
 ## 📈 Contribution Graph
 
