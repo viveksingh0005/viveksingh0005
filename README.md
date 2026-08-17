@@ -69,10 +69,10 @@ CRUD system built using Laravel and MySQL.
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh0005&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=viveksingh0005&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
