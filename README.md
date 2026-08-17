@@ -69,7 +69,11 @@ CRUD system built using Laravel and MySQL.
 
 ---
 
+## 📈 GitHub Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh0005&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
