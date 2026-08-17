@@ -58,10 +58,7 @@ CRUD system built using Laravel and MySQL.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh0005&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ **Note:** These badges are served by free public services (Vercel / Heroku instances of `github-readme-stats` and `github-readme-streak-stats`). They are shared by millions of GitHub profiles, so they sometimes return a broken image temporarily due to rate limiting. If a badge stops loading:
-> 1. Hard-refresh your GitHub profile page (Ctrl/Cmd + Shift + R) — GitHub caches badge images.
-> 2. Wait a few minutes and reload — the shared service is often just temporarily overloaded.
-> 3. For a permanent fix, self-host your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) on your own free Vercel account, then swap the URLs above for your own deployment.
+
 
 ---
 
