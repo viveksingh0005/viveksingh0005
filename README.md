@@ -71,10 +71,6 @@ CRUD system built using Laravel and MySQL.
 
 
 
-## 📈 Contribution Graph
-
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=viveksingh0005&theme=react-dark)
-
 ---
 
 ## 🌐 Connect With Me
